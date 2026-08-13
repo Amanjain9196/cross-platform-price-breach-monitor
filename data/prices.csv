@@ -1,0 +1,9 @@
+sku,platform,floor_price,reference_price,observed_price
+SKU-101,Marketplace-A,199,219,219
+SKU-101,Marketplace-B,199,219,189
+SKU-101,Marketplace-C,199,219,199
+SKU-202,Marketplace-A,299,329,305
+SKU-202,Marketplace-B,299,329,279
+SKU-202,Marketplace-C,299,329,329
+SKU-303,Marketplace-A,149,169,139
+SKU-303,Marketplace-B,149,169,159
